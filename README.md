@@ -50,5 +50,12 @@ In the initial data preparation phase, we performed the following tasks:
 - A graph of sales price.
 - A graph of discount percentage and number of ratings.
 
+😃
+💻
 
+
+|Heading|Heading2|
+|-------|--------|
+|Content|Content2|
+|Python|
 
