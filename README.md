@@ -7,6 +7,7 @@
 
 
 ### Project Overview
+---
 
 This project is to perform a comprehensive analysis of iPhone sales data using Python. By leveraging data analytics techniques, the goal is to uncover meaningful trends, patterns, and insights that provide a deep understanding of sales performance. These insights will be crucial for informing strategic business decisions and optimizing future sales strategies.
 
@@ -51,11 +52,9 @@ In the initial data preparation phase, we performed the following tasks:
 - A graph of discount percentage and number of ratings.
 
 😃
+
 💻
 
 
-|Heading|Heading2|
-|-------|--------|
-|Content|Content2|
-|Python|
+
 
